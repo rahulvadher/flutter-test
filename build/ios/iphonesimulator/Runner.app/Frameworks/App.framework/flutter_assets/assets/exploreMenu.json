@@ -1,0 +1,113 @@
+[
+  {
+    "parentId": 0,
+    "parentName": "Business Partner",
+    "menu": [
+      {
+        "childId": 101,
+        "childName": "Pure Risk"
+      },
+      {
+        "childId": 102,
+        "childName": "Client List"
+      },
+      {
+        "childId": 103,
+        "childName": "Brokerage"
+      },
+      {
+        "childId": 104,
+        "childName": "Dormant"
+      },
+      {
+        "childId": 105,
+        "childName": "PCR Report"
+      }
+    ]
+  },
+  {
+    "parentId": 1,
+    "parentName": "Open Position",
+    "menu": [
+    ]
+  },
+  {
+    "parentId": 2,
+    "parentName": "Executed Trades",
+    "menu": [
+    ]
+  },
+  {
+    "parentId": 3,
+    "parentName": "Account Ledger",
+    "menu": [
+    ]
+  },
+  {
+    "parentId": 4,
+    "parentName": "Funds",
+    "menu": [
+    ]
+  },
+  {
+    "parentId": 5,
+    "parentName": "IPO",
+    "menu": [
+
+    ]
+  },
+  {
+    "parentId": 6,
+    "parentName": "Downloads",
+    "menu": [
+    ]
+  },
+  {
+    "parentId": 7,
+    "parentName": "Support",
+    "menu": [
+      {
+        "childId": 71,
+        "childName": "Call Back Request"
+      },
+      {
+        "childId": 72,
+        "childName": "24x7 Whatsapp"
+      },
+      {
+        "childId": 73,
+        "childName": "Suggestions"
+      }
+    ]
+  },
+  {
+    "parentId": 8,
+    "parentName": "Contact Us",
+    "menu": [
+    ]
+  },
+  {
+    "parentId": 9,
+    "parentName": "About Us",
+    "menu": [
+    ]
+  },
+  {
+    "parentId": 10,
+    "parentName": "Share App",
+    "menu": [
+    ]
+  },
+  {
+    "parentId": 11,
+    "parentName": "Rate App",
+    "menu": [
+    ]
+  },
+  {
+    "parentId": 12,
+    "parentName": "Logout",
+    "menu": [
+    ]
+  }
+]

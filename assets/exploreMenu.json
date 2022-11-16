@@ -1,0 +1,28 @@
+[
+  {
+    "parentId": 0,
+    "parentName": "Business Partner",
+    "menu": [
+      {
+        "childId": 101,
+        "childName": "Pure Risk"
+      },
+      {
+        "childId": 102,
+        "childName": "Client List"
+      },
+      {
+        "childId": 103,
+        "childName": "Brokerage"
+      },
+      {
+        "childId": 104,
+        "childName": "Dormant"
+      },
+      {
+        "childId": 105,
+        "childName": "PCR Report"
+      }
+    ]
+  }
+]

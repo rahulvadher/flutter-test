@@ -1,0 +1,19 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="733.609" height="733.609" viewBox="0 0 733.609 733.609">
+    <defs>
+        <linearGradient id="linear-gradient" x1="0.39" y1="1.875" x2="0.737" y2="-0.667"
+            gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#309" />
+            <stop offset="1" stop-color="#0cf" />
+        </linearGradient>
+    </defs>
+    <g id="Layer_x0020_1">
+        <rect id="Rectangle_236" data-name="Rectangle 236" width="733.609" height="733.609"
+            fill="none" />
+    </g>
+    <g id="Layer_x0020_1_0" transform="translate(28.82 104.801)">
+        <path id="Path_2546" data-name="Path 2546"
+            d="M207.093,414.365l-104.8-162.442H.11L162.552,503.446H264.733l26.2-49.781,34.06,49.781H427.175L660.358,89.481l18.34,23.58L665.6.4,524.117,76.381l31.44-2.62-183.4,343.224L338.094,367.2,450.756,152.362l18.34,20.96L458.616,60.661l-144.1,78.6,34.06-5.24L277.833,275.5l-13.1-23.58H162.552l70.741,110.041h0Z"
+            transform="translate(-0.11 -0.4)" fill="url(#linear-gradient)" />
+    </g>
+</svg>
